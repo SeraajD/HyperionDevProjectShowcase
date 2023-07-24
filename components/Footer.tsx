@@ -9,12 +9,12 @@ const Footer = () => {
       <div className='flex flex-col gap-12 w-full'>
         <div className='flex items-start flex-col'>
         <Image
-            src="/logo.png"
+            src="/logo2.svg"
             width={150}
             height={35}
             alt='HyperionDev Logo'
           />
-          <p className='text-primary-hd fontb'>Project Showcase</p>
+          <p className='text-white'>Project Showcase</p>
           <p className='text-start text-sm font-normal mt-5 max-w-xs'>HyperionDev Project Showcase is a community of projects created by our academic staff and students</p>
         </div>
         <div className="flex flex-wrap gap-12">
@@ -24,8 +24,8 @@ const Footer = () => {
         </div>
 
         <div className="flexBetween footer_copyright">
-            <p>@2023 HyperionDev. All rights reserved</p>
-            <p className="text-gray">
+            <p className='font-normal text-[#1A476B]'>@2023 HyperionDev. All rights reserved</p>
+            <p className=" text-light-white-500">
               <span className="text-black font-semibold">10,214</span> projects submitted
             </p>
         </div>

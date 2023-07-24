@@ -22,73 +22,49 @@ export const categoryFilters = [
 
 export const footerLinks = [
   {
-    title: 'For developers',
+    title: 'Company',
     links: [
-      'Go Pro!',
-      'Explore development work',
-      'Development blog',
-      'Code podcast',
-      'Open-source projects',
-      'Refer a Friend',
+      'Join our team',
+      'Privacy',
+      'Terms',
+      'About us',
+      'FAQ',
+      'Contact us',
       'Code of conduct',
     ],
   },
   {
-    title: 'Hire developers',
+    title: 'Employers',
     links: [
-      'Post a job opening',
-      'Post a freelance project',
-      'Search for developers',
+      'Bootcamps',
+      'Upskill your employees',
+      'Success stories',
     ],
   },
   {
-    title: 'Brands',
+    title: 'Students',
     links: [
-      'Advertise with us',
+      '#CodeDidThis',
+      'Coding careers',
+      'Scholarships',
+      'Get a student loan',
+      'Resources',
     ],
   },
   {
-    title: 'Company',
+    title: 'Popular Topics',
     links: [
-      'About',
-      'Careers',
-      'Support',
-      'Media kit',
-      'Testimonials',
-      'API',
-      'Terms of service',
-      'Privacy policy',
-      'Cookie policy',
+      'Software development',
+      'Web development',
+      'Programming information',
+      'Carbon Reduction Plan',
     ],
   },
   {
-    title: 'Directories',
+    title: 'Connect',
     links: [
-      'Development jobs',
-      'Developers for hire',
-      'Freelance developers for hire',
-      'Tags',
-      'Places',
+      'Subscribe to our newsletter',
     ],
   },
-  {
-    title: 'Development assets',
-    links: [
-      'Code Marketplace',
-      'GitHub Marketplace',
-      'NPM Registry',
-      'Packagephobia',
-    ],
-  },
-  {
-    title: 'Development Resources',
-    links: [
-      'Freelancing',
-      'Development Hiring',
-      'Development Portfolio',
-      'Development Education',
-      'Creative Process',
-      'Development Industry Trends',
-    ],
-  },
+
 ];
